@@ -1,0 +1,315 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Jun 2024 20:56:06 at https://thenewgym.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thenewgym.vn/ -O1 "D:\Fresher_Training\QNSportict" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:58:39	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://thenewgym.vn/)
+20:59:37	Error: 	"Not Found" (404) at link https://thenewgym.vn/dich-vu/ (from https://thenewgym.vn/)
+21:05:10	Error: 	"Not Found" (404) at link https://thenewgym.vn/en/proper-breathing-techniques-you-need-to-know/ (from https://thenewgym.vn/en/)
+21:05:32	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://thenewtech.vn/wp-content/plugins/formidable/images/ajax_loader.gif (from https://thenewgym.vn/wp-content/plugins/formidable/css/formidableforms.css?ver=918454)
+21:05:32	Error: 	"Not Found" (404) at link https://thenewgym.vn/a (from https://connect.facebook.net/en_US/fbevents.js)
+21:05:32	Error: 	"Not Found" (404) at link https://thenewgym.vn/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:05:32	Error: 	"Not Found" (404) at link https://thenewgym.vn/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:05:32	Error: 	"Not Found" (404) at link https://thenewgym.vn/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+21:05:32	Error: 	"Not Found" (404) at link https://thenewgym.vn/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+21:05:33	Warning: 	Moved Permanently for https://thenewgym.vn/?p=263
+21:05:33	Warning: 	File has moved from https://thenewgym.vn/?p=263 to https://thenewgym.vn/thong-tin-ve-chuoi-phong-tap-the-new-gym/
+21:05:33	Warning: 	Moved Permanently for https://thenewgym.vn/he-thong-phong-tap/
+21:05:33	Warning: 	File has moved from https://thenewgym.vn/he-thong-phong-tap/ to https://thenewgym.vn/phong-gym-gan-day-the-new-gym-gan-day/
+21:05:38	Warning: 	Moved Permanently for https://thenewgym.vn/?p=247
+21:05:38	Warning: 	File has moved from https://thenewgym.vn/?p=247 to https://thenewgym.vn/hoi-vien/
+21:05:38	Warning: 	Moved Permanently for https://thenewgym.vn/?p=235
+21:05:38	Warning: 	File has moved from https://thenewgym.vn/?p=235 to https://thenewgym.vn/phong-gym-gan-day-the-new-gym-gan-day/
+21:05:56	Warning: 	Moved Permanently for https://thenewgym.vn/?p=164
+21:05:56	Warning: 	File has moved from https://thenewgym.vn/?p=164 to https://thenewgym.vn/tap-cung-huan-luyen-vien-ho-tro-tap-luyen/
+21:05:56	Warning: 	Moved Permanently for https://thenewgym.vn/?p=109
+21:05:56	Warning: 	File has moved from https://thenewgym.vn/?p=109 to https://thenewgym.vn/lien-he/
+21:05:56	Warning: 	Moved Permanently for https://thenewgym.vn/?p=1138
+21:05:56	Warning: 	File has moved from https://thenewgym.vn/?p=1138 to https://thenewgym.vn/khu-vuc-tap-luyen-the-new-gym/
+21:05:56	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2655
+21:05:56	Warning: 	File has moved from https://thenewgym.vn/?p=2655 to https://thenewgym.vn/lan-dau-tap-gym-nen-tap-may-nao/?p=2655
+21:06:03	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2695
+21:06:03	Warning: 	File has moved from https://thenewgym.vn/?p=2695 to https://thenewgym.vn/lan-dau-di-tap-gym-nen-luu-y-dieu-gi/?p=2695
+21:06:37	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6329
+21:06:37	Warning: 	File has moved from https://thenewgym.vn/?p=6329 to https://thenewgym.vn/4-cach-tap-luyen-khi-ban-qua-ban-ron/?p=6329
+21:06:37	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6155
+21:06:37	Warning: 	File has moved from https://thenewgym.vn/?p=6155 to https://thenewgym.vn/5-ly-do-tai-sao-viec-tap-luyen-lai-tot-cho-tim-mach/?p=6155
+21:06:37	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6051
+21:06:37	Warning: 	File has moved from https://thenewgym.vn/?p=6051 to https://thenewgym.vn/6-bai-tap-gian-co-tot-nhat-cho-co-dui-san-chac/?p=6051
+21:06:37	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2605
+21:06:37	Warning: 	File has moved from https://thenewgym.vn/?p=2605 to https://thenewgym.vn/nguoi-moi-bat-dau-tap-gym-can-biet/?p=2605
+21:06:41	Error: 	"Not Found" (404) at link https://thenewgym.vn/ho-tro-tap-luyen/ (from https://thenewgym.vn/nguoi-moi-bat-dau-tap-gym-can-biet/)
+21:06:41	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2318
+21:06:41	Warning: 	File has moved from https://thenewgym.vn/?p=2318 to https://thenewgym.vn/5-ly-do-nen-tap-luyen-cung-huan-luyen-vien-ca-nhan/?p=2318
+21:06:41	Error: 	"Not Found" (404) at link https://thenewgym.vn/dia-diem-tap-gym-tot-nhat-ho-chi-minh/ (from https://thenewgym.vn/5-ly-do-nen-tap-luyen-cung-huan-luyen-vien-ca-nhan/)
+21:06:41	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5392
+21:06:41	Warning: 	File has moved from https://thenewgym.vn/?p=5392 to https://thenewgym.vn/3-bai-tap-vao-gio-nghi-trua-thuc-hien-trong-vong-1-tieng/?p=5392
+21:06:42	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2745
+21:06:42	Warning: 	File has moved from https://thenewgym.vn/?p=2745 to https://thenewgym.vn/10-ly-do-nen-su-dung-may-chay-bo/?p=2745
+21:06:42	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4013
+21:06:42	Warning: 	File has moved from https://thenewgym.vn/?p=4013 to https://thenewgym.vn/10-sai-lam-can-tranh-khi-su-dung-may-chay-bo/?p=4013
+21:06:44	Warning: 	Moved Permanently for https://thenewgym.vn/?p=3912
+21:06:44	Warning: 	File has moved from https://thenewgym.vn/?p=3912 to https://thenewgym.vn/14-meo-su-dung-may-chay-bo/?p=3912
+21:06:46	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2061
+21:06:46	Warning: 	File has moved from https://thenewgym.vn/?p=2061 to https://thenewgym.vn/3-loi-ich-cua-viec-tap-the-duc-hang-ngay/?p=2061
+21:06:46	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2152
+21:06:46	Warning: 	File has moved from https://thenewgym.vn/?p=2152 to https://thenewgym.vn/5-cach-de-duy-tri-khoi-luong-co-bap/?p=2152
+21:06:46	Error: 	"Not Found" (404) at link https://thenewgym.vn/loi-ich-cua-viec-tap-the-duc-hang-ngay/ (from https://thenewgym.vn/5-cach-de-duy-tri-khoi-luong-co-bap/)
+21:06:46	Warning: 	Moved Permanently for https://thenewgym.vn/?p=1941
+21:06:46	Warning: 	File has moved from https://thenewgym.vn/?p=1941 to https://thenewgym.vn/5-phuong-phap-giam-can-khoa-hoc-ban-nen-biet/?p=1941
+21:06:48	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4489
+21:06:48	Warning: 	File has moved from https://thenewgym.vn/?p=4489 to https://thenewgym.vn/gioi-thieu-cac-bo-mon-tap-luyen-tai-the-new-gym/?p=4489
+21:06:51	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2050
+21:06:51	Warning: 	File has moved from https://thenewgym.vn/?p=2050 to https://thenewgym.vn/top-5-meo-giam-can-hieu-qua/?p=2050
+21:06:51	Warning: 	Moved Permanently for https://thenewgym.vn/?p=571
+21:06:51	Warning: 	File has moved from https://thenewgym.vn/?p=571 to https://thenewgym.vn/cac-trieu-chung-mat-nuoc-cua-co-the/?p=571
+21:06:51	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2696
+21:06:51	Warning: 	File has moved from https://thenewgym.vn/?p=2696 to https://thenewgym.vn/bai-tap-giup-giam-can-nhanh-giam-mo-bung-nhanh/?p=2696
+21:06:52	Warning: 	Moved Permanently for https://thenewgym.vn/?p=3560
+21:06:52	Warning: 	File has moved from https://thenewgym.vn/?p=3560 to https://thenewgym.vn/cac-bai-tap-ha-nhiet-cuoi-buoi-cho-nguoi-moi-bat-dau/?p=3560
+21:06:56	Warning: 	Moved Permanently for https://thenewgym.vn/?p=3544
+21:06:56	Warning: 	File has moved from https://thenewgym.vn/?p=3544 to https://thenewgym.vn/cac-thuat-ngu-gymer-can-biet/?p=3544
+21:06:56	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2699
+21:06:56	Warning: 	File has moved from https://thenewgym.vn/?p=2699 to https://thenewgym.vn/cach-su-dung-cac-thiet-bi-tap-luyen-tai-the-new-gym/?p=2699
+21:06:56	Warning: 	Moved Permanently for https://thenewgym.vn/?p=3445
+21:06:56	Warning: 	File has moved from https://thenewgym.vn/?p=3445 to https://thenewgym.vn/chay-bo-dung-cach-cho-nguoi-moi-bat-dau/?p=3445
+21:06:57	Warning: 	Moved Permanently for https://thenewgym.vn/?p=3484
+21:06:57	Warning: 	File has moved from https://thenewgym.vn/?p=3484 to https://thenewgym.vn/chon-giay-tap-gym-phu-hop-khi-di-tap-gym/?p=3484
+21:07:02	Warning: 	Moved Permanently for https://thenewgym.vn/?p=539
+21:07:02	Warning: 	File has moved from https://thenewgym.vn/?p=539 to https://thenewgym.vn/dong-tac-gym-tang-cuong-the-luc-phu-hop-voi-tat-ca-moi-nguoi/?p=539
+21:07:12	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2500
+21:07:12	Warning: 	File has moved from https://thenewgym.vn/?p=2500 to https://thenewgym.vn/huong-dan-tap-gym-cho-nguoi-moi-bat-dau/?p=2500
+21:07:12	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2741
+21:07:12	Warning: 	File has moved from https://thenewgym.vn/?p=2741 to https://thenewgym.vn/loi-ich-chay-bo-30-phut-moi-ngay/?p=2741
+21:07:15	Warning: 	Moved Permanently for https://thenewgym.vn/?p=564
+21:07:15	Warning: 	File has moved from https://thenewgym.vn/?p=564 to https://thenewgym.vn/loi-ich-cua-vitamin-d-ban-nen-bo-sung-vao-che-do-an-hang-ngay/?p=564
+21:07:15	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2492
+21:07:15	Warning: 	File has moved from https://thenewgym.vn/?p=2492 to https://thenewgym.vn/nguoi-moi-tap-gym-lan-dau-nen-tap-may-nao/?p=2492
+21:07:15	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2541
+21:07:15	Warning: 	File has moved from https://thenewgym.vn/?p=2541 to https://thenewgym.vn/nguoi-moi-tap-gym-ngai-den-phong-gym/?p=2541
+21:07:16	Warning: 	Moved Permanently for https://thenewgym.vn/?p=569
+21:07:16	Warning: 	File has moved from https://thenewgym.vn/?p=569 to https://thenewgym.vn/thoi-quen-sai-sau-khi-tap-gym/?p=569
+21:07:18	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5492
+21:07:18	Warning: 	File has moved from https://thenewgym.vn/?p=5492 to https://thenewgym.vn/10-goi-y-cho-bua-sang-lanh-manh-chi-trong-5-phut/?p=5492
+21:07:19	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4309
+21:07:19	Warning: 	File has moved from https://thenewgym.vn/?p=4309 to https://thenewgym.vn/10-thuc-pham-giam-can-ban-nen-them-vao-thuc-don-ngay/?p=4309
+21:07:19	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4411
+21:07:19	Warning: 	File has moved from https://thenewgym.vn/?p=4411 to https://thenewgym.vn/vi-sao-chung-can/?p=4411
+21:07:20	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5387
+21:07:20	Warning: 	File has moved from https://thenewgym.vn/?p=5387 to https://thenewgym.vn/thu-thach-30-ngay-tap-luyen-de-co-than-hinh-can-doi/?p=5387
+21:07:24	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5383
+21:07:24	Warning: 	File has moved from https://thenewgym.vn/?p=5383 to https://thenewgym.vn/2-nguyen-nhan-met-moi-sau-khi-tap-luyen-tai-sao-va-cach-de-khac-phuc/?p=5383
+21:07:30	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4947
+21:07:30	Warning: 	File has moved from https://thenewgym.vn/?p=4947 to https://thenewgym.vn/5-bai-tap-chay-nuoc-rut-tot-nhat-de-cai-thien-toc-do/?p=4947
+21:07:31	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5237
+21:07:31	Warning: 	File has moved from https://thenewgym.vn/?p=5237 to https://thenewgym.vn/4-dong-tac-cho-bai-tap-toan-than/?p=5237
+21:07:33	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4941
+21:07:33	Warning: 	File has moved from https://thenewgym.vn/?p=4941 to https://thenewgym.vn/5-bai-tap-hiit-dap-xe-tot-nhat/?p=4941
+21:07:34	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4944
+21:07:34	Warning: 	File has moved from https://thenewgym.vn/?p=4944 to https://thenewgym.vn/5-cau-hoi-thuong-gap-trong-qua-trinh-tap-luyen/?p=4944
+21:07:34	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5227
+21:07:34	Warning: 	File has moved from https://thenewgym.vn/?p=5227 to https://thenewgym.vn/7-bai-tap-compound-giup-ban-giam-mo-va-xay-dung-co-bap/?p=5227
+21:07:36	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4131
+21:07:36	Warning: 	File has moved from https://thenewgym.vn/?p=4131 to https://thenewgym.vn/5-dong-tac-gian-co-cai-thien-tu-the-squat/?p=4131
+21:07:36	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4954
+21:07:36	Warning: 	File has moved from https://thenewgym.vn/?p=4954 to https://thenewgym.vn/6-meo-giu-duoc-voc-dang-thon-gon/?p=4954
+21:07:37	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5235
+21:07:37	Warning: 	File has moved from https://thenewgym.vn/?p=5235 to https://thenewgym.vn/bai-tap-hiit-25-phut/?p=5235
+21:07:38	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5232
+21:07:38	Warning: 	File has moved from https://thenewgym.vn/?p=5232 to https://thenewgym.vn/7-bai-tap-lung-tot-nhat-cho-phu-nu/?p=5232
+21:07:40	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4374
+21:07:40	Warning: 	File has moved from https://thenewgym.vn/?p=4374 to https://thenewgym.vn/low-fat-hay-low-carb-tot-hon/?p=4374
+21:07:40	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4956
+21:07:40	Warning: 	File has moved from https://thenewgym.vn/?p=4956 to https://thenewgym.vn/chuong-trinh-tap-luyen-cho-nguoi-tren-50-tuoi/?p=4956
+21:07:41	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4380
+21:07:41	Warning: 	File has moved from https://thenewgym.vn/?p=4380 to https://thenewgym.vn/dam-thuc-vat-hay-dam-dong-vat/?p=4380
+21:07:41	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4140
+21:07:41	Warning: 	File has moved from https://thenewgym.vn/?p=4140 to https://thenewgym.vn/nen-tap-gym-bao-lau-loi-ich-tap-gym-1-tieng/?p=4140
+21:07:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4406
+21:07:43	Warning: 	File has moved from https://thenewgym.vn/?p=4406 to https://thenewgym.vn/ban-co-can-phai-detox-khong/?p=4406
+21:07:44	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4127
+21:07:44	Warning: 	File has moved from https://thenewgym.vn/?p=4127 to https://thenewgym.vn/calo-la-gi-8-buoc-kiem-soat-calo-de-tang-can-giam-can/?p=4127
+21:07:45	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4370
+21:07:45	Warning: 	File has moved from https://thenewgym.vn/?p=4370 to https://thenewgym.vn/cafein-anh-huong-toi-viec-tap-luyen-nhu-the-nao/?p=4370
+21:07:46	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4046
+21:07:46	Warning: 	File has moved from https://thenewgym.vn/?p=4046 to https://thenewgym.vn/tap-gym-tai-nha-voi-7-buoc-hieu-qua-bat-ngo/?p=4046
+21:07:47	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4376
+21:07:47	Warning: 	File has moved from https://thenewgym.vn/?p=4376 to https://thenewgym.vn/nhin-an-gian-doan-la-gi-va-hieu-qua-trong-viec-giam-can/?p=4376
+21:08:04	Warning: 	Moved Permanently for https://thenewgym.vn/?p=1144
+21:08:04	Warning: 	File has moved from https://thenewgym.vn/?p=1144 to https://thenewgym.vn/dieu-khoan-dieu-kien/
+21:08:04	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6526
+21:08:04	Warning: 	File has moved from https://thenewgym.vn/?p=6526 to https://thenewgym.vn/chinh-sach-bao-mat/
+21:08:04	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6553
+21:08:04	Warning: 	File has moved from https://thenewgym.vn/?p=6553 to https://thenewgym.vn/xoa-tai-khoan/
+21:08:04	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1276
+21:08:04	Warning: 	File has moved from https://thenewgym.vn/en/?p=1276 to https://thenewgym.vn/en/about-us/
+21:08:04	Warning: 	Moved Permanently for https://thenewgym.vn/en/the-new-gym-equipments/
+21:08:04	Warning: 	File has moved from https://thenewgym.vn/en/the-new-gym-equipments/ to https://thenewgym.vn/en/training-equipments/
+21:08:04	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1331
+21:08:04	Warning: 	File has moved from https://thenewgym.vn/en/?p=1331 to https://thenewgym.vn/en/membership/
+21:08:04	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1335
+21:08:04	Warning: 	File has moved from https://thenewgym.vn/en/?p=1335 to https://thenewgym.vn/en/clubs/
+21:08:20	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1333
+21:08:20	Warning: 	File has moved from https://thenewgym.vn/en/?p=1333 to https://thenewgym.vn/en/fitness-support/
+21:08:20	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1280
+21:08:20	Warning: 	File has moved from https://thenewgym.vn/en/?p=1280 to https://thenewgym.vn/en/contact-us/
+21:08:20	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1568
+21:08:20	Warning: 	File has moved from https://thenewgym.vn/en/?p=1568 to https://thenewgym.vn/en/training-zones/?p=1568
+21:08:20	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1550
+21:08:20	Warning: 	File has moved from https://thenewgym.vn/en/?p=1550 to https://thenewgym.vn/en/5-simple-and-easy-weight-loss-salad-recipes/?p=1550
+21:08:26	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1575
+21:08:26	Warning: 	File has moved from https://thenewgym.vn/en/?p=1575 to https://thenewgym.vn/en/5-symptoms-of-dehydration/?p=1575
+21:08:27	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1631
+21:08:27	Warning: 	File has moved from https://thenewgym.vn/en/?p=1631 to https://thenewgym.vn/en/9-habits-that-slow-down-metabolism-and-lead-to-weight-gain/?p=1631
+21:08:40	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1337
+21:08:40	Warning: 	File has moved from https://thenewgym.vn/en/?p=1337 to https://thenewgym.vn/en/terms-and-condition/
+21:08:40	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=6592
+21:08:40	Warning: 	File has moved from https://thenewgym.vn/en/?p=6592 to https://thenewgym.vn/en/privacy-statement/
+21:08:40	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://thenewtech.vn/wp-content/plugins/formidable/images/ajax_loader.gif (from https://thenewgym.vn/wp-content/plugins/formidable/css/formidableforms.css?ver=918454)
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=737
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=737 to https://thenewgym.vn/cac-thiet-bi-tap-luyen/
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6064
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=6064 to https://thenewgym.vn/system/da-nang/
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6038
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=6038 to https://thenewgym.vn/system/phan-dang-luu/
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=448
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=448 to https://thenewgym.vn/the-new-gym-bien-hoa/
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=230
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=230 to https://thenewgym.vn/the-new-gym-nguyen-thi-thap/
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=580
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=580 to https://thenewgym.vn/the-new-gym-vung-tau/
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=225
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=225 to https://thenewgym.vn/the-new-gym-nguyen-chi-thanh/
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6724
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=6724 to https://thenewgym.vn/system/the-new-gym-nam-ky-khoi-nghia/
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5934
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=5934 to https://thenewgym.vn/gioi-thieu-1-ban-tang-1-thang/?p=5934
+21:08:43	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5548
+21:08:43	Warning: 	File has moved from https://thenewgym.vn/?p=5548 to https://thenewgym.vn/bai-viet/?p=5548
+21:08:44	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6794
+21:08:44	Warning: 	File has moved from https://thenewgym.vn/?p=6794 to https://thenewgym.vn/3-bai-tap-don-gian-voi-may-chay-bo-cho-nguoi-moi-bat-dau/?p=6794
+21:08:50	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6743
+21:08:50	Warning: 	File has moved from https://thenewgym.vn/?p=6743 to https://thenewgym.vn/9-cach-tao-dong-luc-tap-luyen-cho-nguoi-moi-bat-dau/?p=6743
+21:08:50	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6712
+21:08:50	Warning: 	File has moved from https://thenewgym.vn/?p=6712 to https://thenewgym.vn/14-cach-cai-thien-suc-khoe-tinh-than-hieu-qua/?p=6712
+21:08:50	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6683
+21:08:50	Warning: 	File has moved from https://thenewgym.vn/?p=6683 to https://thenewgym.vn/7-loi-ich-cua-hoat-dong-the-chat-thuong-xuyen/?p=6683
+21:08:50	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6623
+21:08:50	Warning: 	File has moved from https://thenewgym.vn/?p=6623 to https://thenewgym.vn/4-cach-tao-thoi-quen-tap-luyen-cho-nguoi-ban-ron/?p=6623
+21:08:52	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6620
+21:08:52	Warning: 	File has moved from https://thenewgym.vn/?p=6620 to https://thenewgym.vn/10-phut-tap-luyen-cho-nguoi-ban-ron/?p=6620
+21:08:54	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6512
+21:08:54	Warning: 	File has moved from https://thenewgym.vn/?p=6512 to https://thenewgym.vn/khi-nao-la-thoi-diem-tot-nhat-de-tap-luyen/?p=6512
+21:08:54	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6508
+21:08:54	Warning: 	File has moved from https://thenewgym.vn/?p=6508 to https://thenewgym.vn/5-bai-tap-cardio-tot-nhat-cho-nguoi-moi-bat-dau/?p=6508
+21:08:54	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6503
+21:08:54	Warning: 	File has moved from https://thenewgym.vn/?p=6503 to https://thenewgym.vn/9-loi-ich-cua-tap-luyen-voi-suc-khoe-tinh-than/?p=6503
+21:08:56	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6467
+21:08:56	Warning: 	File has moved from https://thenewgym.vn/?p=6467 to https://thenewgym.vn/tam-quan-trong-cua-cacbohydrate/?p=6467
+21:09:03	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5811
+21:09:03	Warning: 	File has moved from https://thenewgym.vn/?p=5811 to https://thenewgym.vn/10-bai-tap-dui-cho-nu/?p=5811
+21:09:03	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5780
+21:09:03	Warning: 	File has moved from https://thenewgym.vn/?p=5780 to https://thenewgym.vn/4-bai-tap-hiit-tren-may-chay-bo/?p=5780
+21:09:03	Warning: 	Moved Permanently for https://thenewgym.vn/?p=530
+21:09:03	Warning: 	File has moved from https://thenewgym.vn/?p=530 to https://thenewgym.vn/nen-tap-yoga-bao-nhieu-tieng-moi-ngay-de-dat-hieu-qua-toi-uu/?p=530
+21:09:06	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4396
+21:09:06	Warning: 	File has moved from https://thenewgym.vn/?p=4396 to https://thenewgym.vn/sau-tap-an-gi/?p=4396
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6042
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/?p=6042 to https://thenewgym.vn/system/au-co/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/?p=702
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/?p=702 to https://thenewgym.vn/the-new-gym-hau-giang/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/?p=445
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/?p=445 to https://thenewgym.vn/the-new-gym-ung-van-khiem/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/?p=451
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/?p=451 to https://thenewgym.vn/the-new-gym-can-tho/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=2149
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/en/?p=2149 to https://thenewgym.vn/en/system/the-new-gym-da-nang/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=6065
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/en/?p=6065 to https://thenewgym.vn/en/system/the-new-gym-phan-dang-luu/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1473
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/en/?p=1473 to https://thenewgym.vn/en/the-new-gym-bien-hoa/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1470
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/en/?p=1470 to https://thenewgym.vn/en/the-new-gym-nguyen-thi-thap/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1474
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/en/?p=1474 to https://thenewgym.vn/en/the-new-gym-vung-tau/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1468
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/en/?p=1468 to https://thenewgym.vn/en/the-new-gym-nguyen-chi-thanh/
+21:09:21	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=6728
+21:09:21	Warning: 	File has moved from https://thenewgym.vn/en/?p=6728 to https://thenewgym.vn/en/system/nam-ky-khoi-nghia/
+21:09:22	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=5224
+21:09:22	Warning: 	File has moved from https://thenewgym.vn/en/?p=5224 to https://thenewgym.vn/en/ke-hoach-tap-luyen-giam-can-trong-vong-6-tuan/?p=5224
+21:09:33	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=6043
+21:09:33	Warning: 	File has moved from https://thenewgym.vn/en/?p=6043 to https://thenewgym.vn/en/system/the-new-gym-au-co/
+21:09:33	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1472
+21:09:33	Warning: 	File has moved from https://thenewgym.vn/en/?p=1472 to https://thenewgym.vn/en/the-new-gym-hau-giang/
+21:09:33	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1471
+21:09:33	Warning: 	File has moved from https://thenewgym.vn/en/?p=1471 to https://thenewgym.vn/en/the-new-gym-ung-van-khiem/
+21:09:33	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1476
+21:09:33	Warning: 	File has moved from https://thenewgym.vn/en/?p=1476 to https://thenewgym.vn/en/the-new-gym-can-tho/
+21:09:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://thenewtech.vn/wp-content/plugins/formidable/images/ajax_loader.gif (from https://thenewgym.vn/wp-content/plugins/formidable/css/formidableforms.css?ver=918454)
+21:09:33	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1605
+21:09:33	Warning: 	File has moved from https://thenewgym.vn/en/?p=1605 to https://thenewgym.vn/en/training-equipments/
+21:09:34	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6455
+21:09:34	Warning: 	File has moved from https://thenewgym.vn/?p=6455 to https://thenewgym.vn/8-bai-tap-giam-mo-tot-nhat-cho-nu/?p=6455
+21:09:39	Warning: 	Moved Permanently for https://thenewgym.vn/?p=224
+21:09:39	Warning: 	File has moved from https://thenewgym.vn/?p=224 to https://thenewgym.vn/the-new-gym-dien-bien-phu/
+21:09:39	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6489
+21:09:39	Warning: 	File has moved from https://thenewgym.vn/?p=6489 to https://thenewgym.vn/system/the-new-gym-quang-trung/
+21:09:39	Warning: 	Moved Permanently for https://thenewgym.vn/?p=190
+21:09:39	Warning: 	File has moved from https://thenewgym.vn/?p=190 to https://thenewgym.vn/the-new-gym-hoang-van-thu/
+21:09:44	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1467
+21:09:44	Warning: 	File has moved from https://thenewgym.vn/en/?p=1467 to https://thenewgym.vn/en/the-new-gym-dien-bien-phu/
+21:09:44	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=1466
+21:09:44	Warning: 	File has moved from https://thenewgym.vn/en/?p=1466 to https://thenewgym.vn/en/the-new-gym-hoang-van-thu/
+21:09:44	Warning: 	Moved Permanently for https://thenewgym.vn/en/?p=6490
+21:09:44	Warning: 	File has moved from https://thenewgym.vn/en/?p=6490 to https://thenewgym.vn/en/system/the-new-gym-quang-trung/
+21:10:07	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6428
+21:10:07	Warning: 	File has moved from https://thenewgym.vn/?p=6428 to https://thenewgym.vn/3-bai-tap-hiit-30-phut-tot-nhat/?p=6428
+21:10:17	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6293
+21:10:17	Warning: 	File has moved from https://thenewgym.vn/?p=6293 to https://thenewgym.vn/10-thuc-pham-giau-protein/?p=6293
+21:10:17	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6296
+21:10:17	Warning: 	File has moved from https://thenewgym.vn/?p=6296 to https://thenewgym.vn/co-the-can-hoi-phuc-trong-bao-lau/?p=6296
+21:10:17	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6248
+21:10:17	Warning: 	File has moved from https://thenewgym.vn/?p=6248 to https://thenewgym.vn/chia-nho-bua-an-trong-1-ngay-lieu-co-tot-khong/?p=6248
+21:10:32	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6174
+21:10:32	Warning: 	File has moved from https://thenewgym.vn/?p=6174 to https://thenewgym.vn/bai-tap-giam-can-hieu-qua/?p=6174
+21:10:48	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6058
+21:10:48	Warning: 	File has moved from https://thenewgym.vn/?p=6058 to https://thenewgym.vn/3-cong-thuc-sinh-to-ngon-giau-protein/?p=6058
+21:10:48	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6055
+21:10:48	Warning: 	File has moved from https://thenewgym.vn/?p=6055 to https://thenewgym.vn/6-loi-ich-cua-viec-tap-yoga-vao-buoi-sang/?p=6055
+21:11:04	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5763
+21:11:04	Warning: 	File has moved from https://thenewgym.vn/?p=5763 to https://thenewgym.vn/5-tu-the-yoga-lam-giam-dau-lung-duoi/?p=5763
+21:11:04	Warning: 	Moved Permanently for https://thenewgym.vn/?p=6046
+21:11:04	Warning: 	File has moved from https://thenewgym.vn/?p=6046 to https://thenewgym.vn/4-bai-tap-doc-tren-may-chay-bo-tot-nhat/?p=6046
+21:11:04	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5962
+21:11:04	Warning: 	File has moved from https://thenewgym.vn/?p=5962 to https://thenewgym.vn/tam-quan-trong-cua-bua-an-phu/?p=5962
+21:11:20	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5959
+21:11:20	Warning: 	File has moved from https://thenewgym.vn/?p=5959 to https://thenewgym.vn/5-meo-de-duy-tri-tap-luyen/?p=5959
+21:11:20	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5925
+21:11:20	Warning: 	File has moved from https://thenewgym.vn/?p=5925 to https://thenewgym.vn/10-bai-tap-vung-co-loi-tot-nhat/?p=5925
+21:11:20	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5922
+21:11:20	Warning: 	File has moved from https://thenewgym.vn/?p=5922 to https://thenewgym.vn/loi-khuyen-danh-cho-nguoi-tap-luyen-1-2-lan-mot-tuan/?p=5922
+21:11:37	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5918
+21:11:37	Warning: 	File has moved from https://thenewgym.vn/?p=5918 to https://thenewgym.vn/tap-luyen-bao-nhieu-lan-trong-1-tuan-de-giam-can/?p=5918
+21:11:37	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5897
+21:11:37	Warning: 	File has moved from https://thenewgym.vn/?p=5897 to https://thenewgym.vn/8-bai-tap-hiit-tot-nhat-cho-phan-than-duoi/?p=5897
+21:11:37	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5894
+21:11:37	Warning: 	File has moved from https://thenewgym.vn/?p=5894 to https://thenewgym.vn/ke-hoach-tap-luyen-cardio-tot-nhat/?p=5894
+21:11:49	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5892
+21:11:49	Warning: 	File has moved from https://thenewgym.vn/?p=5892 to https://thenewgym.vn/6-bai-tap-hiit-tot-nhat-cho-phan-than-tren/?p=5892
+21:11:49	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5888
+21:11:49	Warning: 	File has moved from https://thenewgym.vn/?p=5888 to https://thenewgym.vn/8-loi-ich-cua-viec-tap-ta/?p=5888
+21:11:49	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5866
+21:11:49	Warning: 	File has moved from https://thenewgym.vn/?p=5866 to https://thenewgym.vn/tro-lai-phong-tap-sau-mot-thoi-gian-dai-nghi-ngoi/?p=5866
+21:11:54	Warning: 	Moved Permanently for https://thenewgym.vn/?p=5390
+21:11:54	Warning: 	File has moved from https://thenewgym.vn/?p=5390 to https://thenewgym.vn/5-bai-tap-san-chac-co-the-tot-nhat-ma-ban-nen-thu/?p=5390
+21:12:22	Warning: 	Moved Permanently for https://thenewgym.vn/?p=4045
+21:12:22	Warning: 	File has moved from https://thenewgym.vn/?p=4045 to https://thenewgym.vn/cach-giam-mo-bung-duoi-hieu-qua-va-lanh-manh/?p=4045
+21:12:41	Warning: 	Moved Permanently for https://thenewgym.vn/?p=2261
+21:12:41	Warning: 	File has moved from https://thenewgym.vn/?p=2261 to https://thenewgym.vn/top-1-phong-gym-tot-nhat/?p=2261
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 19 seconds : 1742 links scanned, 1582 files written (473850363 bytes overall) [445917523 bytes received at 405748 bytes/sec], 38718265 bytes transferred using HTTP compression in 958 files, ratio 25%, 10.7 requests per connection
+(12 errors, 292 warnings, 0 messages)
