@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            background-color: #333;
+        }
+
+        .navbar a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar">
+        <a href="#" onclick="showGym()">Ve GYM</a>
+        <a href="#" onclick="showBMI()">Tinh BMI</a>
+    </div>
+    <div class="content" id="content">
+        <!-- Content will be loaded here -->
+    </div>
+
+    <script>
+        function showGym() {
+            document.getElementById('content').innerHTML = '<h2>Ve GYM</h2><p>Welcome to the GYM section.</p>';
+        }
+
+        function showBMI() {
+            document.getElementById('content').innerHTML = `
+                <h2>Tinh BMI</h2>
+                <form id="bmiForm">
+                    <label for="height">Height (cm):</label>
+                    <input type="number" id="height" name="height" required><br><br>
+                    <label for="weight">Weight (kg):</label>
+                    <input type="number" id="weight" name="weight" required><br><br>
+                    <button type="button" onclick="calculateBMI()">Calculate BMI</button>
+                </form>
+                <p id="bmiResult"></p>
+            `;
+        }
+
+        function calculateBMI() {
+            const height = document.getElementById('height').value;
+            const weight = document.getElementById('weight').value;
+            if (height > 0 && weight > 0) {
+                const bmi = (weight / ((height / 100) ** 2)).toFixed(2);
+                document.getElementById('bmiResult').innerText = `Your BMI is ${bmi}`;
+            } else {
+                document.getElementById('bmiResult').innerText = 'Please enter valid height and weight.';
+            }
+        }
+    </script>
+</body>
+
+</html>
